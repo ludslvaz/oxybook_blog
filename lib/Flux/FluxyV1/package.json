@@ -1,3 +1,20 @@
 {
-    "type": "module"
+  "type": "module",
+  "name": "fluxyv1",
+  "version": "1.0.0",
+  "description": "lib para requisições",
+  "main": "index.js",
+  "scripts": {
+    "test": "console.log('Hello world')"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/veetorio/Flux.git"
+  },
+  "author": "Vee",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/veetorio/Flux/issues"
+  },
+  "homepage": "https://github.com/veetorio/Flux#readme"
 }
